@@ -330,8 +330,6 @@ This project is licensed under the **MIT License** — see the LICENSE file for 
 
 **GALI NAGA SAI PRASANNA**  
 
-Generated: March 15, 2026
-
 ## 🙏 Acknowledgments
 
 - Dataset sourced from electronics sales records (2024)
